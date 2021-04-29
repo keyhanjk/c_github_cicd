@@ -1,4 +1,7 @@
 {
+    "name": "keyhanjk/keyhan",
+    "description": "keyhan",
+    "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "^9"
     }
